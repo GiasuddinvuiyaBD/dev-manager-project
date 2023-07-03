@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Courgette&family=Lobster&family=Open+Sans&family=PT+Sans+Narrow&family=PT+Serif&family=Quicksand&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Courgette&family=Open+Sans&family=PT+Sans+Narrow&family=PT+Serif&family=Quicksand&family=Roboto&display=swap');
+
+
+body
+{
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+    background-color: #c4c4c4 !important;
+}
+
+.brand 
+{
+    font-family: 'Lobster', cursive;
+}
+.mt-10
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card-img
+{
+    max-width: 300px;
+    padding: 1.50rem;
+    height: auto;
+}
+
+.mt-l
+{
+    margin-left: 10px;
+}
+
+.submitBtnDesign
+{
+    text-align: center;
+    margin: 20px 0;
+}
